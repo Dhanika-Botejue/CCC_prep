@@ -1,1 +1,0 @@
-print("Hello, MacBook Pro")
