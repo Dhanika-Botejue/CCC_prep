@@ -55,7 +55,7 @@ for factor in factors:
 found = False
 
 #print(q)
-while len(q) != 0:
+while q:
     indexing = q.popleft()
     r, c = indexing[0], indexing[1]
 
